@@ -1,1 +1,0 @@
-verfifier pour 02 et 03 avec networksetup -listallhardwareports que en0 est bien la carte wifi
