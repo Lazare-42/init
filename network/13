@@ -1,0 +1,2 @@
+dhcp.42.fr.
+command : cat [nslookup $(ipconfig getpacket en0 | grep "server_identifier" | cut -d ":" -f2 | tr -d '[:blank:']) | grep "name" | cut -d "=" -f2 | tr -d '[:blank:]']
