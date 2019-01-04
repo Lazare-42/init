@@ -1,0 +1,1 @@
+ use the command su followed by a '-' and the user you want to switch to in SSH mode. In graphic mode just log out and log in as the new user

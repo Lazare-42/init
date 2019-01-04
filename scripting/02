@@ -1,0 +1,1 @@
+killall -u test ; userdel -f test

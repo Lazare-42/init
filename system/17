@@ -1,0 +1,1 @@
+su service ssh restart ; ssh lazrossi@10.0.2.15

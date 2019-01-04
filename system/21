@@ -1,0 +1,1 @@
+awk -F'[/:]' '{if ( >= 1000 &&  != 65534) print }' /etc/passwd
